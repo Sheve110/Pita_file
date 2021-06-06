@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 pruebas pita
 ahora que estoy en pepedos creo que voy a decir la N word
 
 ahora estoy despues del merge en master
-=======
 a
->>>>>>> 1cd59dd60a424bf6c05f53c606ca312e6bc9dcee
+
